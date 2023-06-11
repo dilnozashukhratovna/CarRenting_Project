@@ -1,0 +1,4 @@
+{
+    "port": 3000,
+    "atlasUri": "mongodb+srv://Dilnoza:dil20006@cluster0.exkcrat.mongodb.net/hometask?retryWrites=true&w=majority"
+}
